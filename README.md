@@ -1,6 +1,6 @@
 <h1 align="center">Desafio Capgemini Exercício3</h1>
 
-<p align="center">Terceiroo exercício realizado com a finalidade de participar do processo seletivo 2022 para a Academia Java Capgemini 2022.</p>
+<p align="center">Terceiro exercício realizado com a finalidade de participar do processo seletivo 2022 para a Academia Java Capgemini 2022.</p>
 
 <p align="center">
  <a href="#-tecnologias">Tecnologias</a> • 
