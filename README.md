@@ -1,6 +1,6 @@
-<h1 align="center">Desafio Capgemini Exercício2</h1>
+<h1 align="center">Desafio Capgemini Exercício3</h1>
 
-<p align="center">Segundo exercício realizado com a finalidade de participar do processo seletivo 2022 para a Academia Java Capgemini 2022.</p>
+<p align="center">Terceiroo exercício realizado com a finalidade de participar do processo seletivo 2022 para a Academia Java Capgemini 2022.</p>
 
 <p align="center">
  <a href="#-tecnologias">Tecnologias</a> • 
@@ -20,7 +20,7 @@ A seguintes ferramenta foi usada na construção desse projeto:
 Pré-requisitos: Java 17
 ```bash
 # Clonar repositório
-https://github.com/Vivian-Spectra/desafioextwo.git
+https://github.com/Vivian-Spectra/desafio-capgemini3.git
 # Entrar no arquivo do projeto
 Main.Java
 # Executar o projeto
